@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**TheHairyJ/TheHairyJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Greetings!
+ 
+### I'm Jamie O'Hare
 
-Here are some ideas to get you started:
+- 👨‍💻 Teaching Fellow in Cybersecurity at Abertay University.
+- 👨‍🎓 PhD student concentrating on the impacts of Internet-wide Scanning.
+- 📚 Other research interests include bug bounties, cybersecurity education and pedagogy.
+- 🐦On Twitter as [@TheHairyJ](www.twitter.com/thehairyj) too 
+- 💻 Personal site @ oha.re.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ongoing Projects
+
+ - 🔎 Scout
+	 - Using Censys data, Scout predicts vulnerabilities without interaction with target system.
+- 📑 Student Resources
+	- A collection of extremely useful sites and guidance gathered from my times as a student and teacher.
