@@ -7,7 +7,7 @@
 - 👨‍🎓 PhD student concentrating on the impacts of Internet-wide Scanning.
 - 📚 Other research interests include bug bounties, cybersecurity education and pedagogy.
 - 🐦On Twitter as [@TheHairyJ](https://www.twitter.com/thehairyj) too! 
-- 💻 Personal site @ [oha.re](https://www.oha.re).
+- 💻 Personal site @ [oha.re](https://oha.re).
 
 ### Ongoing Projects
 
