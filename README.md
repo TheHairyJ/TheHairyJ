@@ -6,8 +6,8 @@
 - 👨‍💻 Teaching Fellow in Cybersecurity at Abertay University.
 - 👨‍🎓 PhD student concentrating on the impacts of Internet-wide Scanning.
 - 📚 Other research interests include bug bounties, cybersecurity education and pedagogy.
-- 🐦On Twitter as [@TheHairyJ](www.twitter.com/thehairyj) too 
-- 💻 Personal site @ oha.re.
+- 🐦On Twitter as [@TheHairyJ](www.twitter.com/thehairyj) too! 
+- 💻 Personal site @ [oha.re](www.oha.re).
 
 ### Ongoing Projects
 
