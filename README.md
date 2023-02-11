@@ -3,7 +3,7 @@
  
 ### I'm Jamie O'Hare
 
-- 👨‍💻 Teaching Fellow in Cybersecurity at Abertay University.
+- 👨‍💻 Lecturer in Cybersecurity at Abertay University.
 - 👨‍🎓 PhD student concentrating on the impacts of Internet-wide Scanning.
 - 📚 Other research interests include bug bounties, cybersecurity education and pedagogy.
 - 🐦On Twitter as [@TheHairyJ](https://www.twitter.com/thehairyj) too! 
